@@ -1,4 +1,4 @@
-import cv2
+test
 import numpy as np
 print("Hello World")
 # Create a blank image
